@@ -1,0 +1,5 @@
+
+> leitor-arquivos-grandes@1.0.0 start /home/caique/Documentos/codes/aulas-erick-wendell/leitor-arquivos-grandes
+> DEBUG=app* node --harmony-top-level-await index.js
+
+......
